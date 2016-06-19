@@ -160,6 +160,7 @@ public class Foothill
          System.out.println(INDENT + "Protein: " + totalProtein + " grams");
          System.out.println(INDENT + "Fat: " + totalFat + " grams");
          System.out.println(INDENT + "Cholestrol: " + totalChol + " grams");
+         System.out.println("You should pick the lowest calories option.");
          }
          }
          }
